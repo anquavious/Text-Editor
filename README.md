@@ -15,7 +15,7 @@ Screen recording of application
 
 ![Alt text](./assets/screenshots/text-editor%20screenshot.png)
 
-![Alt text](./assets/screenshots/text-editor%20screenshot.png)
+![Alt text](./assets/screenshots/text-editor.gif)
 
 Link to application
 
