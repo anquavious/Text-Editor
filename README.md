@@ -13,9 +13,9 @@ Then go to the url of the application (http//:localhost:3000) to begin using it
 
 Screen recording of application
 
-![Alt text](../../../../../../../../C:/Users/anquavious.grant/OneDrive%20-%20Chick-fil-A,%20Inc/Desktop/GTProjects/Text-Editor-main/Text-Editor-main/assets/screenshots/text-editor%20screenshot.png)
+![Alt text](./assets/screenshots/text-editor%20screenshot.png)
 
-![Alt text](../../../../../../../../C:/Users/anquavious.grant/OneDrive%20-%20Chick-fil-A,%20Inc/Desktop/GTProjects/Text-Editor-main/Text-Editor-main/assets/screenshots/text-editor.gif)
+![Alt text](./assets/screenshots/text-editor%20screenshot.png)
 
 Link to application
 
