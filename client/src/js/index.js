@@ -1,3 +1,4 @@
+// imports files within source folder
 import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
@@ -14,6 +15,7 @@ const loadSpinner = () => {
   <div class="loading-spinner" />
   </div>
   `;
+  // appends spinner
   main.appendChild(spinner);
 };
 
