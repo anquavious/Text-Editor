@@ -13,9 +13,9 @@ Then go to the url of the application (http//:localhost:3000) to begin using it
 
 Screen shot and recording of application
 
-![Alt text](./assets/screenshots/text-editor%20screenshot.png)
+![Screenshot](./assets/screenshots/text-editor%20screenshot.png)
 
-![Alt text](./assets/screenshots/text-editor.gif)
+![Screen recording](./assets/screenshots/text-editor.gif)
 
 Link to application
 
