@@ -11,7 +11,7 @@ Then go to the url of the application (http//:localhost:3000) to begin using it
 
 ## Usage
 
-Screen recording of application
+Screen shot and recording of application
 
 ![Alt text](./assets/screenshots/text-editor%20screenshot.png)
 
