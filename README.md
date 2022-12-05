@@ -7,7 +7,7 @@ This application is a text editor that assists software developers and software 
 ## Installation
  
 To install this package we install npm by running `npm i` and `npm run start` from the root directory folder to set up all of the dependencies.
-Then go to the url of the application (http//:localhost:3000) to begin using it
+Then go to the url of the application (http//:localhost:8080) to begin using it
  
 ## Usage
  
